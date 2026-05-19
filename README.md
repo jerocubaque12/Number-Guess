@@ -18,7 +18,7 @@ A simple and interactive command-line game written in Python that simulates a nu
 1. Clone this repository:
    `git clone https://github.com/jerocubaque12/Number-Guess.git`
 2. Run the script:
-   `guessing_game.py`
+   `NumberGuess.py`
 3. Follow the on-screen instructions to pick your number and test your luck.
 
 ---
